@@ -7,7 +7,6 @@ The code runs in O(n log n) time, where n is the number of input points.
 The download package comes with extensive documentation and examples.
 
 Project homepage: http://www.mpi-inf.mpg.de/~weinkauf/notes/persistence1d.html(已无效)
-
                   http://www.csc.kth.se/~weinkauf/notes/persistence1d.html(有效)
 
 Persistence1D has been written by Yeara Kozlov and Tino Weinkauf, Max Planck 
